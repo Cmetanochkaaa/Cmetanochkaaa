@@ -10,8 +10,7 @@
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Cmetanochkaa)
 
 </div>
-
-
+&nbsp;
 
 ## 🧩 Blockbench plugins
 
