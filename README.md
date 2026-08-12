@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Cmetanochka 👋
+# Hi, I'm Cmetanochka 
 
 **Figura avatars & scripts · Blockbench plugins · Minecraft mods · vanilla+ models**
 
@@ -12,12 +12,12 @@
 </div>
 &nbsp;
 
-## 🧩 Blockbench plugins
+## Blockbench plugins
 
 A small toolkit for color, textures, palettes, animation and viewport presentation.
 Every plugin is **bilingual — English / Russian**.
 
-### 🎨 Color & palettes
+### Color & palettes
 
 - **Palette Swap** — recolor a whole family of shades at once, keeping the shading
 - **Recolor by Hue** — hue / saturation / lightness / contrast with a live model preview
@@ -27,14 +27,14 @@ Every plugin is **bilingual — English / Russian**.
 - **Shadow / Light Auto** — automatic shadows & highlights from one base color
 - **2-Color / 3-Color Ramp** — smooth hue-shifted color ramps
 
-### 🎬 Animation
+### Animation
 
 - **Focus Keyframes** — show only the tracks that actually have keyframes
 - **Clean Animation Speed** — change speed without fractional frames
 - **Animation Retime** — reverse & phase-shift animations (whole or selected keyframes)
 - **Onion Skin** — ghost frames to check motion arcs
 
-### 🖼️ Viewport
+### Viewport
 
 - **Viewport Studio** — light, effects & shaders baked into renders
 
